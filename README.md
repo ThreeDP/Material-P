@@ -8,7 +8,7 @@
 > São comandos de movimentação dentro do cenário.
 
 **F**
-> Foca no objetoo selecionado.
+> Foca no objeto selecionado.
 
 **Alt + Botão esquerdo do mouse**
 > Movimenta a visualização da pespectiva do objeto selecionado.
