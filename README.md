@@ -21,3 +21,6 @@
 
 **Ctrl + P**
 > Da um start no jogo do ponto de vista da camera.
+
+**Ctrl + D**
+> Duplica um objeto selecionado.
