@@ -18,3 +18,6 @@
 
 **Botão diretio do mouse**
 > Movimenta a visualização da pespectiva da camera.
+
+**Ctrl + P**
+> Da um start no jogo do ponto de vista da camera.
