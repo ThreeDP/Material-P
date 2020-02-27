@@ -1,8 +1,16 @@
 # Games
 
-# Comandos
 
-### Unity
+
+# Unity
+
+### Componentes
+
+**Rigidbody**
+> Atribui funções de colisão á objetos, massa e gravidade.
+
+
+### Comandos
 
 **W, S, A, D**
 > São comandos de movimentação dentro do cenário.
